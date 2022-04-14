@@ -11,9 +11,13 @@
 4. If an archer is not able to finish filling out the scoring form, they may submit the form and the rest of the end score values will default to 0, only taking into account the filled out Ends for each Round.
 5. Once an archer has filled out the form, they’ll hit **Submit**, to submit the form and calculate their **Subtotal Cumulative**, **Cumulative Total**, and **Total Score** for the entire shoot.
 
+## Submitting the Form
+1. To submit the form, archers will click on **Submit** and the application will score the filled out fields.
+2. Before submission, an officer **MUST APPROVE AND SIGN OFF** on the form.
+3. Once submitted, the **Subtotal Cumulative**, **Cumulative Total**, and **Total Score** will be calculated, and can be located on the application itself.
 
 ## Making Notes 
 1. Notes can be made about each round, such as when an “X” is scored, to which archers can report that within the **Notes** section. 
 2. The Notes form field can take a maximum of 255 characters, and any more than 255 will lead to an error in the scoring application submission. 
 
-## Submitting the Form
+
