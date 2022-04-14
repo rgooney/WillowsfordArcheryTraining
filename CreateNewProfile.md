@@ -5,3 +5,4 @@
 + Fill out all fields. Be sure to specify your membership type (individual or household).
 + View the WAC Code of Conduct, linked under "Terms and Conditions"
 + Submit the form.
++ If you don't hear back about your membership, use the contact sheet on the website to contact an officer.
