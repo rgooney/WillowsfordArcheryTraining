@@ -1,4 +1,4 @@
-# Resources
+# Officer Django Resources
 
 ## HTML and CSS Resources
 ### HTML
