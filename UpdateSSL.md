@@ -6,8 +6,7 @@ The "s" means that there is a SSL certificate attached to this site. It's basica
 
 1.Log onto the [server console](https://aws.amazon.com/console/)
 2. Launch the server to open a Bitnami window
-![bitnami info][logo]
-[logo]: https://github.com/rgooney/WillowsfordArcheryTraining/blob/main/imgs/bitnami.PNG
+![bitnami info](https://github.com/rgooney/WillowsfordArcheryTraining/blob/main/imgs/bitnami.PNG)
 
  https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/#step-5-renew-the-lets-encrypt-certificate
 
