@@ -1,6 +1,6 @@
 # Willowsford Paypal WalkThrough Training Doc
 
-## Navigating to the Scoring App
+## How to use the Paypal Payment System
 1. After creating a PayPal account for the club please log in using : https://www.paypal.com/buttons/ 
 2. Once logged in you can see all the different options for buttons on the screen, Click on the first button labeled “Smart Buttons” on the top left. 
 3. Once that button is clicked, on the following page on the “ customize the smart payment button” section, change the button type to “Variable type”.
